@@ -117,4 +117,3 @@ Required packages:
 ---
 
 👩‍🎓 **Author:** Mayank Kochar
-🎯 **Purpose:** Interpretable baseline forecasting project
